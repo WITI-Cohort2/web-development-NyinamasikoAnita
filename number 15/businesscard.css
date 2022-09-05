@@ -1,0 +1,47 @@
+/* REG NO 2022/DCSE/036/SS */
+.container{
+    display: grid;
+    border: 5px solid pink;
+    width: 600px;
+    height: 320px;
+    background-color: whitesmoke;
+
+    
+    
+}
+
+.header{
+    display:flex;
+    color: brown;
+    
+}
+.name{
+    margin-left: 150px;
+    font-size: 20px;
+
+}
+
+
+#logo{
+    justify-content: flex-start;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    color: brown;
+}
+.container1{
+    border: 5px solid pink;
+    width:600px;
+    height: 320px;
+    background-color: whitesmoke;
+    color: brown;
+}
+#backside{
+    display: grid;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+
+    
